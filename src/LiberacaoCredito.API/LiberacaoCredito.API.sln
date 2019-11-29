@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiberacaoCredito.API", "LiberacaoCredito.API\LiberacaoCredito.API.csproj", "{2072E428-A525-4EFF-AFDF-9DC7EEA15CAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LIberacaoCredito.API.Core", "LIberacaoCredito.API.Core\LIberacaoCredito.API.Core.csproj", "{FA8DB9FE-5572-44FD-BBA9-CDBB1C86E661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2072E428-A525-4EFF-AFDF-9DC7EEA15CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2072E428-A525-4EFF-AFDF-9DC7EEA15CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2072E428-A525-4EFF-AFDF-9DC7EEA15CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2072E428-A525-4EFF-AFDF-9DC7EEA15CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8DB9FE-5572-44FD-BBA9-CDBB1C86E661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8DB9FE-5572-44FD-BBA9-CDBB1C86E661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8DB9FE-5572-44FD-BBA9-CDBB1C86E661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8DB9FE-5572-44FD-BBA9-CDBB1C86E661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA91B01-09FB-4A32-855F-B59EA3517167}
+	EndGlobalSection
+EndGlobal
